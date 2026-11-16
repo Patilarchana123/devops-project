@@ -7,3 +7,6 @@
 
 # Documentation files
 *.md @Patilarchana123
+
+# Automatically request review from repository owner
+* @Patilarchana123
