@@ -1,0 +1,9 @@
+
+# Default owner for all files
+* @Patilarchana123
+
+# Python files
+*.py @Patilarchana123
+
+# Documentation files
+*.md @Patilarchana123
